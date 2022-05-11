@@ -42,8 +42,14 @@ This project adopts MIT protocol, which can be downloaded and used by yourself. 
 
 ![20220511182000](https://raw.githubusercontent.com/learner-lu/picbed/master/20220511182000.png)
 
-## Other related datset
+## Other related dataset
 
 - [6w,96x96,well](https://github.com/bchao1/Anime-Face-Dataset)
 - [5w,96x96,nice](https://github.com/luzhixing12345/Anime-WGAN/releases/download/v0.0.2/faces.zip)
 - [14w,512x512,high quality!!!](https://www.kaggle.com/datasets/lukexng/animefaces-512x512)
+
+## Other related GAN work
+
+- [use WGAN to generate anime faces](https://github.com/luzhixing12345/Anime-WGAN)
+- [use DCGAN to generate anime faces](https://github.com/jayleicn/animeGAN)
+- [DCGAN+styleGan3 to generate anime faces](https://github.com/xiaoyou-bilibili/anime_avatar_gen)
