@@ -2,6 +2,12 @@
 
 [English-README](README-en.md)
 
+## [数据集下载地址](https://github.com/luzhixing12345/anime-face-dataset/releases/download/v0.0.1/anime256.zip)
+
+> 如果下载速度过慢可以使用[Github proxy](https://ghproxy.com/)加速
+
+解压后文件名为 `anime256`
+
 ## 简介
 
 这是一个动漫头像的数据集,所有图片来源于 <http://konachan.net/post/> 和 <https://wallhaven.cc/>
@@ -28,13 +34,14 @@
 
 ## 数据集部分图片
 
-## [数据集下载地址](123)
+## 相关其他数据集
 
-> 如果下载速度过慢可以使用[Github proxy](https://ghproxy.com/)加速
+- [6w,96x96,质量不是特别好](https://github.com/bchao1/Anime-Face-Dataset)
+- [5w,96x96,质量不错](https://github.com/luzhixing12345/Anime-WGAN/releases/download/v0.0.2/faces.zip)
+- [14w,512x512,质量超高](https://www.kaggle.com/datasets/lukexng/animefaces-512x512)
 
-## 相关内容
+## 相关GAN项目
 
-- [Github-动漫头像数据集](https://github.com/bchao1/Anime-Face-Dataset)
-- [另一个质量不错的数据集,96x96,5w+张](123)
-- [Github-使用WGAN生成动漫头像](https://github.com/luzhixing12345/Anime-WGAN)
-- [Github-使用DCGAN生成动漫头像](https://github.com/jayleicn/animeGAN)
+- [WGAN生成动漫头像](https://github.com/luzhixing12345/Anime-WGAN) - (我的,厚脸皮推一下)
+- [DCGAN生成动漫头像](https://github.com/jayleicn/animeGAN)
+- [DCGAN+styleGan3](https://github.com/xiaoyou-bilibili/anime_avatar_gen)
