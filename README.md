@@ -47,9 +47,3 @@
 - [6w,96x96,质量不是特别好](https://github.com/bchao1/Anime-Face-Dataset)
 - [5w,96x96,质量不错](https://github.com/luzhixing12345/Anime-WGAN/releases/download/v0.0.2/faces.zip)
 - [14w,512x512,质量超高](https://www.kaggle.com/datasets/lukexng/animefaces-512x512)
-
-## 相关GAN项目
-
-- [WGAN生成动漫头像](https://github.com/luzhixing12345/Anime-WGAN) - (我的,厚脸皮推一下)
-- [DCGAN生成动漫头像](https://github.com/jayleicn/animeGAN)
-- [DCGAN+styleGan3](https://github.com/xiaoyou-bilibili/anime_avatar_gen)
