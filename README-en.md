@@ -36,8 +36,6 @@ In addition to automatic recognition, I also **manually** select for three times
 
 - Most of the color gamut is normal and will not be too bright or too dark
 
-This project adopts MIT protocol, which can be downloaded and used by yourself. If it's helpful to you, please :star: star :star: this repo, thank you. It's worth sifting it manually for several times
-
 ## Part of dataset images
 
 ![20220511181820](https://raw.githubusercontent.com/learner-lu/picbed/master/20220511181820.png)
