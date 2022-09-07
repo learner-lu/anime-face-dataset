@@ -30,8 +30,6 @@
 - 绝大部分图片原图对应位置分辨率高于256x256
 - 绝大部分色域正常,不会过亮过暗
 
-本项目采用 MIT 协议,可自行下载使用. 如果对你有所帮助请给本仓库点个:star: star :star:谢谢,不枉我手动筛了几遍
-
 ## 数据集部分图片
 
 ![20220511181820](https://raw.githubusercontent.com/learner-lu/picbed/master/20220511181820.png)
